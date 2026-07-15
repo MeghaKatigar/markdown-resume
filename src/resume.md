@@ -34,6 +34,10 @@ Backend Engineer and Data Engineer with expertise in designing scalable ETL pipe
 - Led multiple high-volume production events (NFL, Super Bowl, F1), ensuring seamless data collection during live traffic peaks across major telecom partners.
 - Designed and implemented a complete **ETL pipeline**—from raw to staging, intermediate, and business-ready marts—improving data accuracy and availability.
 - Developed secure **Flask-based APIs** for monitoring, scheduling, and managing data capture from distributed devices.
+- Automated end-to-end extraction of telecom network KPIs from large-scale **PCAP** files, significantly reducing manual analysis effort and improving data processing efficiency.
+- Built programmatic **SIP Flow dashboards in Tableau** to visualize call flows, protocol behavior, and network performance metrics, enabling faster troubleshooting and performance analysis.
+- Designed and deployed an **ELK Stack (Elasticsearch, Logstash, Kibana)** pipeline to ingest raw network logs, enabling real-time log analysis, interactive dashboards, and accelerated root cause identification.
+- Optimized backend data processing workflows and automation pipelines to support scalable analytics for high-volume telecom traffic.
 - Mentored junior developers and senior engineers, guiding frontend implementation and backend best practices.
 - Collaborated with architects in high-level discussions to design scalable ETL workflows and API structures.
 - Conducted functional and non-functional testing, including load and performance testing using Apache JMeter.
@@ -47,16 +51,6 @@ Backend Engineer and Data Engineer with expertise in designing scalable ETL pipe
 
 - Supported ongoing engineering and analytics projects, contributing to data processing, dashboarding, and backend tasks.
 - Assisted senior engineers in designing data flows and automation processes, laying the foundation for full-time responsibilities.
-
-## **Projects**
-
-### **Automation of End-to-End KPI Extraction & SIP Analytics Platform**
-
-- Designed and developed an automated pipeline to extract telecom network KPIs from large-scale **PCAP** files, eliminating manual analysis and significantly reducing processing time.
-- Built a programmatic **SIP Flow Dashboard** in **Tableau** to visualize SIP call flows, network performance, and protocol-level analytics for efficient troubleshooting.
-- Designed and deployed an **ELK Stack (Elasticsearch, Logstash, Kibana)** solution to ingest and process raw network logs, enabling real-time monitoring, log-level analysis, and accelerated root cause identification.
-- Automated data parsing, transformation, and visualization workflows, improving operational efficiency and reducing manual effort.
-- Optimized backend data processing pipelines to support scalable analytics for high-volume telecom traffic.
 
 ## **Skills**
 
